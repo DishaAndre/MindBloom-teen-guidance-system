@@ -20,7 +20,7 @@
 
 ### What Does It Do?
 
-- **👦 Child Users** — Children can register securely, ask questions in various categories (school, bullying, friendship), mark issues as urgent/private, track their question status, view replies, and access the Knowledge Center and mini-quizzes to earn badges.
+- **👦 Child User** — Children can register securely, ask questions in various categories (school, bullying, friendship), mark issues as urgent/private, track their question status, view replies, and access the Knowledge Center and mini-quizzes to earn badges.
 - **🧑‍⚕️ Counselors** — Trusted counselors have a dashboard to view assigned questions, filter by urgency/status, and use safe response templates to reply using child-friendly language. They can also create educational articles and flag risky cases.
 - **🛠️ Admins** — Administrators manage the entire platform. They moderate all users, filter appropriate content, assign incoming questions to specific counselors, and approve or reject Knowledge Center articles.
 
